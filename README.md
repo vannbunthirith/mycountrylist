@@ -1,2 +1,0 @@
-# mycountrylist
-My Country List
